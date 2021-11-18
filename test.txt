@@ -2,3 +2,6 @@
 123123
 create a new branch : dev
 test conflict
+test stash
+test stash2
+handle conflict
